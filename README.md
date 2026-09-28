@@ -1,4 +1,4 @@
-# 🌱 Agro3D — Plataforma de Soluções em Impressão 3D para o Agronegócio
+# 🌱 AgroFab3D — Plataforma de Soluções em Impressão 3D para o Agronegócio
 
 > **Conectando problemas reais do campo a empresas capazes de desenvolver e fabricar soluções personalizadas.**
 
@@ -6,7 +6,7 @@
 
 ## 📌 Sobre o projeto
 
-O **Agro3D** é uma plataforma criada para aproximar **produtores rurais** e **empresas especializadas em impressão 3D**.
+O **AgroFab3D** é uma plataforma criada para aproximar **produtores rurais** e **empresas especializadas em impressão 3D**.
 
 No dia a dia do agronegócio, surgem problemas que podem ser resolvidos com uma peça, suporte, adaptação ou componente específico. Porém, muitas vezes:
 
